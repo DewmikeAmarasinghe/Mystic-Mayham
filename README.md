@@ -7,7 +7,7 @@ Mystic Mayham is a turn-based strategy game where players build armies of fantas
 - **Multiple Character Classes**: Choose from various character types including Knights, Archers, Mages, Healers, and Mythical Creatures.
 - **Strategic Combat**: Engage in turn-based battles with a focus on strategy and character positioning.
 - **Home Grounds**: Different battlefields that provide unique bonuses to certain character types.
-- **Character Progression**: Level up your characters and unlock new abilities as you play.
+- **Character Progression**: Level up your characters and unlock new abilities as you play .
 
 ## Getting Started
 
